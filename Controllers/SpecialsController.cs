@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using BlazingPizza.Data;
+using BlazingPizza;
 
 namespace BlazingPizza.Controllers;
 
